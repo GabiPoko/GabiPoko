@@ -5,7 +5,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -55,12 +55,6 @@ I’m currently seeking opportunities to grow within QA teams and contribute to 
 ✔ Able to read technical documentation  
 ✔ Basic communication in professional contexts  
 ✔ Improving oral and written fluency
-
----
-
-## 📊 GitHub Stats
-
-![Gabi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabiPoko&show_icons=true&theme=github_dark)
 
 ---
 
