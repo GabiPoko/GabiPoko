@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel Pokorasky
 
-### 🧪 Junior QA Analyst | Manual & API Testing | QA Automation in Progress
+### Junior QA Analyst | Manual & API Testing | QA Automation in Progress
 
 Passionate about software quality, continuous learning, and building reliable digital products.
 
