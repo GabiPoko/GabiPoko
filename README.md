@@ -1,82 +1,110 @@
-👋 Hi there! I'm Gabriel Pokorasky  
+# 👋 Hi, I'm Gabriel Pokorasky
 
-📍 Junior QA Analyst | 🧪 Manual & API Testing | 🤖 Automation in Progress  
-📫 Contact: gabipokorasky@gmail.com  
+### 🧪 Junior QA Analyst | Manual & API Testing | QA Automation in Progress
+
+Passionate about software quality, continuous learning, and building reliable digital products.
 
 ---
 
 ## 💼 About Me
 
-Junior QA Analyst with hands-on academic experience in manual testing, test case design, and defect reporting for web and API applications. Currently developing automation skills with Selenium and RestAssured.
+Junior QA Analyst with hands-on academic experience in manual testing, API validation, test case design, and defect reporting for web applications and backend services.
 
-Background in Python and Java, including Spring Boot and Maven, providing strong understanding of backend logic, APIs, and data validation for testing.
+Currently expanding my automation testing skills using Selenium, RestAssured, and Appium, supported by a technical background in Java (Spring Boot, Maven) and Python.
 
-With over 13 years of experience in education, I bring strong communication, organization, analytical thinking, and attention to detail — key skills for software quality assurance.
+Before transitioning into tech, I worked over 13 years as a teacher. This experience strengthened essential QA skills such as:
 
-Focused on continuous learning and contributing to high-quality digital products.
+- Clear communication and documentation
+- Analytical thinking and problem solving
+- Attention to detail
+- Organization and planning
+- Team collaboration and adaptability
+
+These skills directly support effective testing, bug reporting, and quality assurance processes.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-**QA & Testing**
-- Manual Testing (functional, regression, exploratory)
+### QA & Testing
+- Manual Testing (Functional, Regression, Exploratory)
 - API Testing (Postman, RestAssured – learning)
 - Test Case Design & Bug Reporting
-- Jira basics
 - Agile / Scrum fundamentals
+- QA Documentation Practices
 
-**Automation (Learning Path)**
+### Automation (Learning Path)
 - Selenium WebDriver
 - RestAssured
+- Appium
 - Page Object Model fundamentals
 
-**Backend & Development Knowledge**
-- Java, Maven, Spring Boot
+### Programming & Backend Knowledge
+- Java, Spring Boot, Maven
 - Python, Django
 - SQL (basic – data validation for testing)
 - HTML, CSS
 
-**Tools**
+### Tools
 - Git & GitHub
 - Postman
+- Jira (basic)
 - Excel / Google Sheets
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured QA Projects
 
-| Project | Description | Technologies | Link |
-|--------|-------------|-------------|------|
-| QA API Testing Practice | API validation and backend testing exercises | Postman · Java · RestAssured | View repo |
-| Science Blog | Educational web app built with Django | Django · Python · HTML · CSS | View repo |
-| Video Game Blog | Group project with development and testing | HTML · CSS · Manual Testing | View repo |
-| Tkinter Calculator | Desktop GUI calculator | Python · Tkinter | View repo |
+### 🔹 API Testing Practice
+- REST API testing using Postman and RestAssured
+- Response validation (status codes, headers, body)
+- Backend data verification
+- Focus on QA automation foundations
+
+### 🔹 Manual Testing Practice (Web Applications)
+- Functional and exploratory testing
+- Test case design based on requirements
+- Bug reporting simulation with evidence
+- QA documentation workflow practice
+
+### 🔹 Automation Framework Practice
+- Selenium automation exercises
+- Page Object Model structure
+- Basic automated test execution
 
 ---
 
 ## 📚 Education & Training
 
-🧪 Manual Testing Specialization – Informatorio (2025)  
-☕ Java & Spring Boot Specialization – Informatorio (2025)  
-🌐 Web Development with Python & Django – Informatorio (2024)  
-🎓 Bachelor’s Degree in Education – UNNE  
+- 🧪 Manual QA Testing Specialization – Informatorio (2025)
+- ☕ Java & Spring Boot Specialization – Informatorio (2025)
+- 🌐 Web Development with Python & Django – Informatorio (2024)
+- 🎓 Bachelor’s Degree in Education – UNNE
 
 ---
 
 ## 🌐 Languages
 
 **Spanish:** Native  
-**English:** Intermediate (B2 – improving for professional QA environments)  
+**English:** Intermediate (B2 – improving for professional QA environments)
 
-✔ Technical documentation reading  
-✔ Test case and bug reporting in English  
-✔ Continuous speaking and writing practice  
+- Technical documentation reading
+- Test case writing and bug reporting in English
+- Continuous speaking practice
+
+---
+
+## 🎯 Current Focus
+
+- Advancing QA automation skills
+- Strengthening API testing expertise
+- Building a solid QA portfolio
+- Preparing for Junior QA opportunities
 
 ---
 
 ## 🤝 Let’s Connect
 
-Open to Junior QA opportunities (Manual / API Testing / Automation).
+I’m actively seeking opportunities as a **Junior QA Analyst / Tester**.
 
-If you’re looking for someone detail-oriented, analytical, and committed to software quality — feel free to connect or explore my QA projects.
+If you value quality,
